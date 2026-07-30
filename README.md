@@ -1,1 +1,3 @@
-# treinamento-git-equipe
+# treinamento-git-
+
+Primeiro treinamento de Git em equipe.
